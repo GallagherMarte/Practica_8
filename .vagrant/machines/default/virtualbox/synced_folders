@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"type":"virtualbox","guestpath":"/var/www/html","hostpath":"C:/Users/ELIAN/practica8/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ELIAN/practica8","disabled":false,"__vagrantfile":true}}}
